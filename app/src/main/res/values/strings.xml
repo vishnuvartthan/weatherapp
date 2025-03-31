@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">weatherapp</string>
+    <string name="degree">\u00b0C</string>
+</resources>
